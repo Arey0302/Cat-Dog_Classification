@@ -1,0 +1,14 @@
+2025-03-05 01:50:31,058 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Starting Model Serving 
+2025-03-05 01:54:39,746 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Starting Model Serving 
+2025-03-05 01:56:15,960 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Starting Model Serving 
+2025-03-05 01:56:26,239 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Predictor name : resnet18
+2025-03-05 01:56:26,239 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Predicted Prob: 0.692733 - Predicted ID: 1 - Predicted Class: Dog
+2025-03-05 02:03:19,992 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Starting Model Serving 
+2025-03-05 02:03:28,850 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Predictor name : resnet18
+2025-03-05 02:03:28,861 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Predicted Prob: 0.607181 - Predicted ID: 1 - Predicted Class: Dog
+2025-03-05 02:06:09,150 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Starting Model Serving 
+2025-03-05 02:09:03,012 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Predictor name : resnet18
+2025-03-05 02:09:03,012 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Predicted Prob: 0.607181 - Predicted ID: 1 - Predicted Class: Dog
+2025-03-05 02:09:08,037 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Starting Model Serving 
+2025-03-05 02:09:15,307 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Predictor name : resnet18
+2025-03-05 02:09:15,307 - D:\Dev\CatDog\root\models\catdog_predictor.py - INFO -  Predicted Prob: 0.575869 - Predicted ID: 1 - Predicted Class: Dog
